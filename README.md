@@ -1,9 +1,9 @@
 
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://github.com/ranjeetgupta1203)
-<h1 align="center">Hi 👋, I'm Ranjeet Gupta</h1>
+<h1 align="center">Hi 👋, I am Ranjeet Gupta</h1>
 <h3 align="center">A passionate Data Science Engineer from India</h3>
 <img align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-o5&label=Profile%20views&color=0e75b6&style=flat" alt="amit-o5" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-o5&label=Profile%20views&color=0e75b6&style=flat" alt="ranjeetgupta1203" /> </p>
 
 - 🌱 I’m currently learning *CPP, DSA and Mern*
 
@@ -22,7 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjeetgupta1203&show_icons=true&locale=en&layout=compact" alt="amit-o5" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjeetgupta1203&show_icons=true&locale=en&layout=compact" alt="ranjeetgupta1203" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjeetgupta1203&show_icons=true&locale=en" alt="ranjeetgupta1203" /></p>
 
