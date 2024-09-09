@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I am Ranjeet Gupta</h1>
 <h3 align="center">A passionate Data Science Engineer from India</h3>
 <img align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-o5&label=Profile%20views&color=0e75b6&style=flat" alt="ranjeetgupta1203" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjeetgupta1203&label=Profile%20views&color=0e75b6&style=flat" alt="ranjeetgupta1203" /> </p>
 
 - 🌱 I’m currently learning *CPP, DSA and Mern*
 
@@ -14,9 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/Ranjeet Gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjeet gupta" height="30" width="40" /></a>
-
 <a href="https://instagram.com/im.ranjeetgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im.ranjeetgupta" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com//ranjeet_045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.src" alt="ranjeetgupta1203" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com//ranjeet_045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ranjeet_1203" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
